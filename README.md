@@ -1,6 +1,6 @@
 # Instagram-API-Android-Tutorial
-Instagram API Android Tutorial
+Welcome to the Instagram-API-Android-Tutorial repository!
+![](https://github.com/TorzsaCristian/Instagram-API-Android-Tutorial/blob/master/feature_image2.png)
+This is the repository for my tutorial http://siteoftutorials.com/instagram-api-android-tutorial/ .
 
-This is a Instagram API Android Tutorial repository for my tutorial http://siteoftutorials.com/instagram-api-android-tutorial/
-
-[Wiki](https://github.com/TorzsaCristian/Instagram-API-Android-Tutorial/wiki)
+Thank you!
